@@ -1,5 +1,5 @@
 echo "what is your name?"
-#read name                  #this is a variable / user is being prompted with question from echo above
+read name                  #this is a variable / user is being prompted with question from echo above
 
 last_name=$1                #this is position argument/parameter
 adjective=$2                #this is position argument/parameter
